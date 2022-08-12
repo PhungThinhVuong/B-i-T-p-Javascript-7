@@ -1,0 +1,22 @@
+[
+    {
+      "maNhanVien": 1,
+      "tenNhanVien": "vun",
+      "email": "vun@gmail.com",
+      "password": 123,
+      "ngaylam": "08/12/2022",
+      "luongCoBan": 10000,
+      "chucVu": "Sếp",
+      "soGioLamTrongThang": 30
+    },
+    {
+        "maNhanVien": 2,
+        "tenNhanVien": "zun",
+        "email": "zun@gmail.com",
+        "password": 123,
+        "ngaylam": "08/12/2022",
+        "luongCoBan": 5000,
+        "chucVu": "Trưởng phòng",
+        "soGioLamTrongThang": 40
+      }
+  ]
