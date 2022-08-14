@@ -1,8 +1,8 @@
 [
     {
       "maNhanVien": 1,
-      "tenNhanVien": "vun",
-      "email": "vun@gmail.com",
+      "tenNhanVien": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
       "password": 123,
       "ngaylam": "08/12/2022",
       "luongCoBan": 10000,
@@ -11,8 +11,8 @@
     },
     {
         "maNhanVien": 2,
-        "tenNhanVien": "zun",
-        "email": "zun@gmail.com",
+        "tenNhanVien": "Nguyen Van B",
+        "email": "nguyenvanb@gmail.com",
         "password": 123,
         "ngaylam": "08/12/2022",
         "luongCoBan": 5000,
